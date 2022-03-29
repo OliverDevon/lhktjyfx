@@ -69,6 +69,3 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-
-    except Exception as e:
-        pass
